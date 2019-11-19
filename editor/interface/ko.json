@@ -475,8 +475,8 @@
     "gui.sharedMessages.costume": "모양 {index}",
     "gui.sharedMessages.sprite": "스프라이트 {index}",
     "gui.sharedMessages.pop": "팝",
-    "gui.sharedMessages.replaceProjectWarning": "Replace contents of the current project?",
-    "gui.sharedMessages.loadFromComputerTitle": "Load from your computer",
+    "gui.sharedMessages.replaceProjectWarning": "현재 프로젝트를 잃어 버릴수 있습니다. 진행 하시겠습니까?",
+    "gui.sharedMessages.loadFromComputerTitle": "컴퓨터에서 불러오기",
     "gui.extension.plrun.name": "코딩 플런",
     "gui.extension.plrun.description": "센서와 버튼을 이용하여 만들어 보세요.",
     "gui.extension.plrun.connectingMessage": "연결 중"
